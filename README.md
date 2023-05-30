@@ -217,7 +217,7 @@ public class MainActivity extends AppCompatActivity {
 ### OUTPUT:
 
 
-![]()
+![](https://github.com/KATHIR1611/EXP-7-MAD/blob/main/nm%202.png)
 
 
 ### RESULT:
