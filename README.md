@@ -8,7 +8,7 @@ To create and develop the application to display the place name with image using
 
 ### EQUIPMENTS REQUIRED:
 
-Android Studio(Latest Version)
+Android Studio(Latest Version).
 
 ### ALGORITHM:
 
@@ -34,7 +34,7 @@ Developed by:Kathirvelan.K
 
 Registeration Number : 212221220026
 
-Activity_main.xml
+activity_main.xml
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
