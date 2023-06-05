@@ -1,6 +1,7 @@
 
 # Ex.No:7 Develop an android application to display the place name with image using list view in android studio
 
+Date : 20.04.23
 
 ### AIM:
 
