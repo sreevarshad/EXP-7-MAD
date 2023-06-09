@@ -217,8 +217,8 @@ public class MainActivity extends AppCompatActivity {
 
 ### OUTPUT:
 
-
-![](https://github.com/KATHIR1611/EXP-7-MAD/blob/main/nm%202.png)
+![](https://github.com/sreevarshad/EXP-7-MAD/blob/main/mmm%207.png)
+<img src="https://github.com/KATHIR1611/EXP-7-MAD/blob/main/nm%202.png" width=300 height=400>
 
 
 ### RESULT:
